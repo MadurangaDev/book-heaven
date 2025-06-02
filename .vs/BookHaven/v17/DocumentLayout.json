@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\components\\layout\\dashboardlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:components\\layout\\dashboardlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\components\\layout\\dashboardlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:components\\layout\\dashboardlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\components\\layout\\dashboardlayout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:components\\layout\\dashboardlayout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\screens\\auth\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:screens\\auth\\loginscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\screens\\forms\\addnewsupplierscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:screens\\forms\\addnewsupplierscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\screens\\dashboard\\stafftab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:screens\\dashboard\\stafftab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\screens\\dashboard\\stafftab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:screens\\dashboard\\stafftab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\enums\\tabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:enums\\tabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\components\\common\\supplierrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:components\\common\\supplierrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\components\\common\\booksearchrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:components\\common\\booksearchrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\helpers\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:helpers\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|E:\\Workspace\\Personal\\Esoft\\BookHaven\\screens\\dashboard\\carttab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:screens\\dashboard\\carttab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\components\\common\\cartrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:components\\common\\cartrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\components\\common\\cartrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:components\\common\\cartrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|e:\\workspace\\personal\\esoft\\bookhaven\\components\\common\\booksearchrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0120C200-47A5-45CD-B57F-4F5E66E9A5DB}|BookHaven.csproj|solutionrelative:components\\common\\booksearchrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardLayout.Designer.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Layout\\DashboardLayout.Designer.cs",
+              "RelativeDocumentMoniker": "Components\\Layout\\DashboardLayout.Designer.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Layout\\DashboardLayout.Designer.cs",
+              "RelativeToolTip": "Components\\Layout\\DashboardLayout.Designer.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAmwBMBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:00:40.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginScreen.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Auth\\LoginScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\Auth\\LoginScreen.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Auth\\LoginScreen.cs",
+              "RelativeToolTip": "Screens\\Auth\\LoginScreen.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAlwFIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:35:48.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:34:30.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardLayout.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Layout\\DashboardLayout.cs",
+              "RelativeDocumentMoniker": "Components\\Layout\\DashboardLayout.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Layout\\DashboardLayout.cs [Design]",
+              "RelativeToolTip": "Components\\Layout\\DashboardLayout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:04:15.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardLayout.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Layout\\DashboardLayout.cs",
+              "RelativeDocumentMoniker": "Components\\Layout\\DashboardLayout.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Layout\\DashboardLayout.cs",
+              "RelativeToolTip": "Components\\Layout\\DashboardLayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:04:18.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddNewSupplierScreen.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Forms\\AddNewSupplierScreen.cs",
+              "RelativeDocumentMoniker": "Screens\\Forms\\AddNewSupplierScreen.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Forms\\AddNewSupplierScreen.cs",
+              "RelativeToolTip": "Screens\\Forms\\AddNewSupplierScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:10:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffTab.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Dashboard\\StaffTab.cs",
+              "RelativeDocumentMoniker": "Screens\\Dashboard\\StaffTab.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Dashboard\\StaffTab.cs",
+              "RelativeToolTip": "Screens\\Dashboard\\StaffTab.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:05:44.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StaffTab.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Dashboard\\StaffTab.cs",
+              "RelativeDocumentMoniker": "Screens\\Dashboard\\StaffTab.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Dashboard\\StaffTab.cs [Design]",
+              "RelativeToolTip": "Screens\\Dashboard\\StaffTab.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:06:03.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tabs.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Enums\\Tabs.cs",
+              "RelativeDocumentMoniker": "Enums\\Tabs.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Enums\\Tabs.cs",
+              "RelativeToolTip": "Enums\\Tabs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:11:31.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupplierRow.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\SupplierRow.cs",
+              "RelativeDocumentMoniker": "Components\\Common\\SupplierRow.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\SupplierRow.cs",
+              "RelativeToolTip": "Components\\Common\\SupplierRow.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:07:23.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartRow.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\CartRow.cs",
+              "RelativeDocumentMoniker": "Components\\Common\\CartRow.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\CartRow.cs",
+              "RelativeToolTip": "Components\\Common\\CartRow.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv1cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:23:21.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookSearchRow.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\BookSearchRow.cs",
+              "RelativeDocumentMoniker": "Components\\Common\\BookSearchRow.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\BookSearchRow.cs",
+              "RelativeToolTip": "Components\\Common\\BookSearchRow.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAywEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:27:13.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookSearchRow.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\BookSearchRow.cs",
+              "RelativeDocumentMoniker": "Components\\Common\\BookSearchRow.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\BookSearchRow.cs [Design]",
+              "RelativeToolTip": "Components\\Common\\BookSearchRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:27:08.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartTab.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Dashboard\\CartTab.cs",
+              "RelativeDocumentMoniker": "Screens\\Dashboard\\CartTab.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Screens\\Dashboard\\CartTab.cs [Design]",
+              "RelativeToolTip": "Screens\\Dashboard\\CartTab.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:48:27.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Helpers\\Messages.cs",
+              "RelativeDocumentMoniker": "Helpers\\Messages.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Helpers\\Messages.cs",
+              "RelativeToolTip": "Helpers\\Messages.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAA4wFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:46:24.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartRow.cs [Design]",
+              "DocumentMoniker": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\CartRow.cs",
+              "RelativeDocumentMoniker": "Components\\Common\\CartRow.cs",
+              "ToolTip": "E:\\Workspace\\Personal\\Esoft\\BookHaven\\Components\\Common\\CartRow.cs [Design]",
+              "RelativeToolTip": "Components\\Common\\CartRow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:35:38.907Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
